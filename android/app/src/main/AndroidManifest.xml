@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="eschool"
+        android:label="E-school Parent"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

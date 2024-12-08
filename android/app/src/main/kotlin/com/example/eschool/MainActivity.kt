@@ -1,4 +1,4 @@
-package com.example.eschool
+package com.aptiotech.eschoolparent
 
 import io.flutter.embedding.android.FlutterActivity
 
